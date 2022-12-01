@@ -8,4 +8,5 @@ PLTW CSE 3.1.2 Variables & Conditionals
 #exec(open("312_DataType_Gombos.py").read())
 #exec(open("312_InputOutput_Gombos.py").read())
 #exec(open("312_DataChange_Gombos.py").read())
-exec(open("312_Boolean_Gombos.py").read())
+#exec(open("312_Boolean_Gombos.py").read())
+exec(open("312_NestedConditionals_Gombos.py").read())
